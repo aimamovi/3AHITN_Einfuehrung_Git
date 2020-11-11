@@ -14,6 +14,11 @@ public class Main {
         System.out.println("kuuuuuuuuuuuuuuuuuuuuuuuuuuuuurac braaaaaaaaaa");
         System.out.println("ein test um 11:55");
 
+        System.out.println("armins datei");
+
+
+
+
     }
 
 
